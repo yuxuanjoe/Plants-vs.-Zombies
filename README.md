@@ -1,1 +1,1 @@
-# Plants-vs.-Zombies-C-
+# Plants-vs.-Zombies  (C++)
